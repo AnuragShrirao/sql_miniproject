@@ -4,13 +4,19 @@ A new Flutter application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is the simple flutter project having integration of MySQL database for local storage.
 
-A few resources to get you started if this is your first Flutter project:
+# Features : 
+ We can add data of student.
+ 
+ We can delete data of student.
+ 
+ We can update data of student.
+ 
+ Data is store locally on the device.
+ 
+ # Sceenshots :
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot (300)](https://user-images.githubusercontent.com/73748430/105501532-5dc18b80-5cea-11eb-8c73-ff6ec2c9c0d6.png)
+![Screenshot (301)](https://user-images.githubusercontent.com/73748430/105501539-5f8b4f00-5cea-11eb-81fe-f016d443cd36.png)
+![Screenshot (302)](https://user-images.githubusercontent.com/73748430/105501542-6023e580-5cea-11eb-8255-a9368d254de2.png)
